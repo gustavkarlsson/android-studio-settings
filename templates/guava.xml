@@ -1,0 +1,9 @@
+<templateSet group="guava">
+  <template name="cnn" value="com.google.common.base.Preconditions.checkNotNull($VAR$, &quot;$VAR$ may not be null&quot;);" description="Preconditions.checkNotNull" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="VAR" expression="suggestFirstVariableName(&quot;Object&quot;)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_STATEMENT" value="false" />
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+</templateSet>
