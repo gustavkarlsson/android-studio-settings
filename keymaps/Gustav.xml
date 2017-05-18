@@ -1,8 +1,12 @@
-<keymap version="1" name="Default copy" parent="$default">
+<keymap version="1" name="Gustav" parent="$default">
   <action id="ActivateAndroidMonitorToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
   <action id="ActivateTODOToolWindow" />
+  <action id="CIDR.Lang.IntroduceDefine" />
+  <action id="Compare.Selected">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
   <action id="ScrollFromSource">
     <keyboard-shortcut first-keystroke="ctrl #10000a7" />
   </action>
