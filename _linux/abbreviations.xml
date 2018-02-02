@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="QuickList.Compare">
+        <abbreviation name="diff" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
