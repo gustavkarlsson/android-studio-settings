@@ -1,0 +1,5 @@
+<list display="Compare">
+  <action id="Compare.SameVersion" />
+  <action id="Git.CompareWithBranch" />
+  <action id="Compare.Selected" />
+</list>
