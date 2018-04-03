@@ -17,7 +17,6 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.java</mask>
       <mask>*</mask>
       <mask>*.k</mask>
       <mask>*.</mask>
@@ -27,6 +26,7 @@
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*.java</mask>
       <mask>*.kt</mask>
     </recentFileMasks>
   </component>
