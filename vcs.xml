@@ -6,6 +6,10 @@
           <option name="url" value="git@github.com:dbdrive/beiwagen-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:gustavkarlsson/skylight-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Development" />
