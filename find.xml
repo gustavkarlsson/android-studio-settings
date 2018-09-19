@@ -14,5 +14,6 @@
     <mask>*.java</mask>
     <mask>*Provider*</mask>
     <mask>*Repository*</mask>
+    <mask>IokiApi.kt</mask>
   </component>
 </application>
