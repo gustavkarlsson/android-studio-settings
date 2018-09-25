@@ -4,7 +4,7 @@
   </action>
   <action id="ActivateTODOToolWindow" />
   <action id="CIDR.Lang.IntroduceDefine" />
-  <action id="Compare.Selected">
+  <action id="QuickList.Compare">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
   <action id="ScrollFromSource">
