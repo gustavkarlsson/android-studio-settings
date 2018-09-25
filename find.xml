@@ -3,9 +3,7 @@
     <option name="customScope" value="Project 'beiwagen-android'" />
     <option name="defaultScopeName" value="Project 'beiwagen-android'" />
     <option name="localCaseSensitive" value="true" />
-    <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'beiwagen-android'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
