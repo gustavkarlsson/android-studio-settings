@@ -15,5 +15,6 @@
     <mask>*Provider*</mask>
     <mask>*Repository*</mask>
     <mask>IokiApi.kt</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
