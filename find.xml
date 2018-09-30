@@ -20,5 +20,6 @@
     <mask>IokiApi.kt</mask>
     <mask>*.kt</mask>
     <mask>*.xml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
