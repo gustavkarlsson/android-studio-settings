@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Source Files" />
+    <option name="FILE_MASK" value="*style*json" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -21,5 +22,6 @@
     <mask>*.kt</mask>
     <mask>*.xml</mask>
     <mask>*.gradle</mask>
+    <mask>*style*json</mask>
   </component>
 </application>
