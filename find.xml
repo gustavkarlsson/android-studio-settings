@@ -3,8 +3,6 @@
     <option name="customScope" value="Project Source Files" />
     <option name="defaultScopeName" value="Project Source Files" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Source Files" />
     <mask>*.properties</mask>
@@ -24,5 +22,6 @@
     <mask>*.kt</mask>
     <mask>strings.xml</mask>
     <mask>strings-technical.xml</mask>
+    <mask>.gitignore</mask>
   </component>
 </application>
