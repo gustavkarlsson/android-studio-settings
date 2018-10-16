@@ -1,10 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Source Files" />
-    <option name="defaultScopeName" value="Project Source Files" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Source Files" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,10 +20,6 @@
     <mask>IokiApi.kt</mask>
     <mask>*.xml</mask>
     <mask>*.gradle</mask>
-    <mask>*style*json</mask>
     <mask>*.kt</mask>
-    <mask>strings.xml</mask>
-    <mask>strings-technical.xml</mask>
-    <mask>.gitignore</mask>
   </component>
 </application>
