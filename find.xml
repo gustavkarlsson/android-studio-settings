@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Default" />
     <option name="defaultScopeName" value="Default" />
     <option name="localCaseSensitive" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Default" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
@@ -18,8 +18,8 @@
     <mask>*Provider*</mask>
     <mask>*Repository*</mask>
     <mask>IokiApi.kt</mask>
-    <mask>*.kt</mask>
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
