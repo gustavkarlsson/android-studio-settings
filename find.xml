@@ -9,6 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Source Files" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -21,7 +22,7 @@
     <mask>*Repository*</mask>
     <mask>IokiApi.kt</mask>
     <mask>*.gradle</mask>
-    <mask>*.xml</mask>
     <mask>*.kt</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
