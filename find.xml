@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Source Files" />
+    <option name="FILE_MASK" value="*Fragment.kt" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -22,5 +23,6 @@
     <mask>*.gradle</mask>
     <mask>*.kt</mask>
     <mask>colors.xml</mask>
+    <mask>*Fragment.kt</mask>
   </component>
 </application>
