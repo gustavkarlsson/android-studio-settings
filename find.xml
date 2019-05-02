@@ -25,5 +25,6 @@
     <mask>*Fragment.kt</mask>
     <mask>*Module.kt</mask>
     <mask>*Activity.kt</mask>
+    <mask>*ViewModel.kt</mask>
   </component>
 </application>
