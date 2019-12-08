@@ -1,5 +1,6 @@
 <application>
   <component name="KotlinRefactoringSettings">
     <option name="MOVE_TO_UPPER_LEVEL_SEARCH_FOR_TEXT" value="true" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
   </component>
 </application>
