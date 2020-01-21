@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Source Files" />
     <option name="defaultScopeName" value="Project Source Files" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Source Files" />
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -11,8 +13,8 @@
     <mask>*.</mask>
     <mask>*.kts</mask>
     <mask>*.kt</mask>
-    <mask>*.xml</mask>
     <mask>strings.xml</mask>
     <mask>*.gradle</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
