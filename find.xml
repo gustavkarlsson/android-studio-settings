@@ -15,7 +15,7 @@
     <mask>*.kts</mask>
     <mask>*.xml</mask>
     <mask>*baseline*</mask>
-    <mask>*.kt</mask>
     <mask>*.gradle</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
