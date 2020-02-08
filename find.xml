@@ -17,6 +17,7 @@
     <mask>*baseline*</mask>
     <mask>*.gradle</mask>
     <mask>*.kts</mask>
+    <mask>*Fragment.kt</mask>
     <mask>*.kt</mask>
   </component>
 </application>
