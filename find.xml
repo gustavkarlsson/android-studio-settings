@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.kts" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -14,10 +15,10 @@
     <mask>strings.xml</mask>
     <mask>*baseline*</mask>
     <mask>*.gradle</mask>
-    <mask>*.kts</mask>
     <mask>*module*</mask>
     <mask>*Fragment.kt</mask>
     <mask>*.kt</mask>
     <mask>*.xml</mask>
+    <mask>*.kts</mask>
   </component>
 </application>
