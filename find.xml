@@ -15,9 +15,9 @@
     <mask>*baseline*</mask>
     <mask>*.gradle</mask>
     <mask>*module*</mask>
-    <mask>*Fragment.kt</mask>
     <mask>*.xml</mask>
     <mask>*.kt</mask>
     <mask>*.kts</mask>
+    <mask>*Fragment.kt</mask>
   </component>
 </application>
