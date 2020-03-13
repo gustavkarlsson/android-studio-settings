@@ -14,8 +14,8 @@
     <mask>*.gradle</mask>
     <mask>*module*</mask>
     <mask>*.kt</mask>
-    <mask>*.kts</mask>
     <mask>*Fragment.kt</mask>
     <mask>*.xml</mask>
+    <mask>*.kts</mask>
   </component>
 </application>
