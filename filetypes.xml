@@ -6,6 +6,8 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="IssueRegistry" type="PLAIN_TEXT" />
       <mapping pattern="META-INF/services/com/android/tools/lint/client/api/IssueRegistry" type="PLAIN_TEXT" />
+      <mapping pattern="dep1" type="PLAIN_TEXT" />
+      <mapping ext="deps" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
