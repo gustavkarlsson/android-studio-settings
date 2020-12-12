@@ -5,5 +5,6 @@
   </component>
   <component name="Registry">
     <entry key="external.system.auto.import.disabled" value="true" />
+    <entry key="ide.allow.merge.buttons" value="false" />
   </component>
 </application>
