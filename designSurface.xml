@@ -1,0 +1,10 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Gustav/Development/skylight-android/feature/about/src/main/res/layout/fragment_about.xml" value="0.34375" />
+        <entry key="..\:/Users/Gustav/Development/skylight-android/feature/intro/src/main/res/layout/fragment_intro.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+</application>
