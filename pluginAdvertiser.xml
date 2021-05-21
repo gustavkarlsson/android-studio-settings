@@ -169,6 +169,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -582,6 +583,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -599,6 +601,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -607,6 +610,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -615,6 +619,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -623,6 +628,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -631,6 +637,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -639,6 +646,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -657,6 +665,22 @@
               <option name="myPluginId" value="com.intellij.cidr.base" />
               <option name="myPluginName" value="CIDR Base" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.markdown">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.markdown" />
+              <option name="myPluginName" value="Markdown" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.md">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.markdown" />
+              <option name="myPluginName" value="Markdown" />
             </plugin>
           </value>
         </entry>
