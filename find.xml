@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.kts" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -26,9 +27,9 @@
     <mask>*.kt*</mask>
     <mask>*.xml</mask>
     <mask>*strings*.xml</mask>
-    <mask>*.kts</mask>
     <mask>*.pro</mask>
     <mask>*strings.xml</mask>
     <mask>*Module.kt</mask>
+    <mask>*.kts</mask>
   </component>
 </application>
