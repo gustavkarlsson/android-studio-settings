@@ -1,8 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
-      <mapping ext="main.kts" type="Kotlin" />
+      <removed_mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="META-INF/services/com/android/tools/lint/client/api/IssueRegistry" type="PLAIN_TEXT" />
       <mapping pattern="IssueRegistry" type="PLAIN_TEXT" />
       <mapping pattern="dep1" type="PLAIN_TEXT" />
