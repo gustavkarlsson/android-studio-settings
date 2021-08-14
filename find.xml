@@ -20,7 +20,6 @@
     <mask>.gitignore</mask>
     <mask>*,kt</mask>
     <mask>*gradle*</mask>
-    <mask>*.xml</mask>
     <mask>*strings*.xml</mask>
     <mask>*.pro</mask>
     <mask>*strings.xml</mask>
@@ -29,5 +28,6 @@
     <mask>*.kts</mask>
     <mask>*.kt</mask>
     <mask>Versions.kt</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
