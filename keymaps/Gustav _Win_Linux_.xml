@@ -1,4 +1,4 @@
-<keymap version="1" name="Gustav (Linux)" parent="$default">
+<keymap version="1" name="Gustav (Win/Linux)" parent="$default">
   <action id="ActivateAndroidMonitorToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
