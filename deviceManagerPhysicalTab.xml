@@ -1,0 +1,18 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-08131FDD4002TC-eSQ0L7._adb-tls-connect._tcp" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-01-01T22:21:33.979744400Z" />
+        <name value="Google Pixel 5" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
