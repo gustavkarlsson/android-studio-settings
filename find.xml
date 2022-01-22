@@ -25,9 +25,9 @@
     <mask>*.pro</mask>
     <mask>*strings.xml</mask>
     <mask>*Module.kt</mask>
-    <mask>*.kts</mask>
     <mask>*.kt</mask>
     <mask>*.kt*</mask>
     <mask>*Module*.kt*</mask>
+    <mask>*.kts</mask>
   </component>
 </application>
