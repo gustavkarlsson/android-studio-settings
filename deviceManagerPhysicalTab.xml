@@ -8,8 +8,18 @@
             <value value="adb-08131FDD4002TC-eSQ0L7._adb-tls-connect._tcp" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-01-08T09:38:35.007070700Z" />
         <name value="Google Pixel 5" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-1B301FDF60078X-Cf1Ubr._adb-tls-connect._tcp" />
+          </Key>
+        </key>
+        <name value="Google Pixel 6" />
         <target value="Android 12.0" />
         <api value="31" />
       </PhysicalDevice>
