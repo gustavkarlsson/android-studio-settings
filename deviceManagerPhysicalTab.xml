@@ -5,12 +5,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="1B301FDF60078X" />
+          </Key>
+        </key>
+        <name value="Google Pixel 6" />
+        <target value="Android API 32" />
+        <api value="androidversion:32:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="08131FDD4002TC" />
           </Key>
         </key>
         <name value="Google Pixel 5" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -21,7 +32,7 @@
         </key>
         <name value="Google Pixel 5" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -32,7 +43,7 @@
         </key>
         <name value="Google Pixel 6" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
