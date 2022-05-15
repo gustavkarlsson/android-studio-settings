@@ -1,10 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
@@ -29,9 +27,9 @@
     <mask>*strings.xml</mask>
     <mask>*Module.kt</mask>
     <mask>*Module*.kt*</mask>
-    <mask>*.kt*</mask>
     <mask>*.xml</mask>
-    <mask>*.kt</mask>
     <mask>*.kts</mask>
+    <mask>*.kt</mask>
+    <mask>*.kt*</mask>
   </component>
 </application>
