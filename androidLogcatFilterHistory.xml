@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.example.pixelpeople level:warn " />
+    <option name="mostRecentlyUsed" value="package:mine XXX" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine XXX" />
         <option value="package:com.example.pixelpeople level:warn " />
         <option value="package:mine " />
         <option value="XXX" />
         <option value="pan:" />
         <option value="pan" />
-        <option value="package:mine XXX" />
         <option value="package:mineX" />
         <option value="package:mine" />
       </list>
