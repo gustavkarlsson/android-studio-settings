@@ -8,5 +8,6 @@
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="30" />
     <option name="MAX_LOOKUP_WIDTH2" value="1380" />
     <option name="SEPARATE_MAIN_MENU" value="true" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>
