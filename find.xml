@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.kt" />
+    <option name="FILE_MASK" value="*.kt*" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -31,7 +31,7 @@
     <mask>*.xml</mask>
     <mask>*.kts*</mask>
     <mask>*.kts</mask>
-    <mask>*.kt*</mask>
     <mask>*.kt</mask>
+    <mask>*.kt*</mask>
   </component>
 </application>
